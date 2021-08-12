@@ -1,0 +1,112 @@
+{
+    "id":["id1","id2","id3"],
+    "paquetes":[
+        {
+            "nacional":[
+                {
+                    "colonia":[
+                        "Estadia de 7 dias con almuerzo en hotel centrico",
+                        "Estadia de 7 dias con desayuno en hotel centrico",
+                        "Estadia de 10 dias con almuerzo en hotel centrico",
+                        "Estadia de 10 dias con desayuno en hotel centrico"
+                    ],
+                    "Salto":[
+                        "Estadia de 7 dias con almuerzo en hotel Termas del Dayman",
+                        "Estadia de 7 dias con desayuno en hotel Termas del Dayman",
+                        "Estadia de 10 dias con almuerzo en hotel Termas del Dayman",
+                        "Estadia de 10 dias con desayuno en hotel Termas del Dayman"
+                    ]
+                }
+            ],
+            "internacional":[
+                {
+                    "miami":[
+                        "Estadia de 7 dias con almuerzo en hotel centrico",
+                        "Estadia de 7 dias con desayuno en hotel centrico",
+                        "Estadia de 10 dias con almuerzo en hotel centrico",
+                        "Estadia de 10 dias con desayuno en hotel centrico"
+                    ],
+                    "roma":[
+                        "Estadia de 7 dias con almuerzo en hotel centrico",
+                        "Estadia de 7 dias con desayuno en hotel centrico",
+                        "Estadia de 10 dias con almuerzo en hotel centrico",
+                        "Estadia de 10 dias con desayuno en hotel centrico"
+                    ]
+                }
+            ]
+        }
+    ] ,
+    "hoteles":[
+        {
+            "montevideo":[
+                {
+                    "dias":["1","2","3","4","10"],
+                    "hotel":[
+                        {
+                            "sofitel":["Carrasco lejos del centro"],
+                            "regency":[
+                                {
+                                    "pocitos":["Cerca del Montevideo Shopping"],
+                                    "carrasco":["En frente a la rambal con vistas inigualables"]
+                                }
+                            ],
+                            "hilton":["Zona Aeropuerto, justo para bajarte del avion y entrar."]
+                        }
+                    ],
+                    "extras":[
+                        {
+                            "desayuno":["Completo","Sin desayuno"],
+                            "piscina":["Si","No"]
+                        }
+                    ]
+                }
+            ],
+            "colonia":{
+                "dias":["1","2","3","4","10"],
+                "hotel":[
+                    {
+                        "regency":["Colonia del sacramento, cerca de la plaza de toros."],
+                        "hilton":["Area centrica a pasos de la principal avenida."]
+                    }
+                ],
+                "extras":[
+                    {
+                        "desayuno":["Completo","Sin desayuno"],
+                        "piscina":["Si","No"]
+                    }
+                ]
+            },
+            "rocha":{
+                "dias":["1","2","3","4","10"],
+                "hotel":[
+                    {
+                        "regency":[
+                            {
+                                "pdd":["Ubicado en Punta del diablo a pasos de la playa"],
+                                "lp":["Ubicacion centrica en La Paloma, a pasos de la principal avenida"]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "apartamentos":[
+            {
+                "montevideo":[
+                    {
+                        "pocitos":["Apartamento 3 dormitorios, se alquila por dia."],
+                        "cordon":["Pequeño monoambiente con cocina sobre 18 de Julio."],
+                        "buceo":["Apartamento de grandes dimensiones para 10 personas."]
+                    }
+                ],
+                "pde":[
+                    {
+                        "peninsula":["Apartamento a pasos de Gorlero."],
+                        "p10":["Apartamento en la parada 10 de la playa mansa."]
+                    }
+                ]
+            }
+        ],
+    "seguros_de_viaje":["Completo 150U$S","Medio 100U$S"]
+}

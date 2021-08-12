@@ -1,0 +1,27 @@
+{
+    "id":"2021",
+    "nombres":[
+        {
+            "nombre":"Jessica",
+            "apellido":"Rodrigues",
+            "edad":"24",
+            "puesto":"Agente de compa venta",
+            "descripcion":"persona proactiva que disfruta de trabajar en una agencia de viajes."
+
+        },
+        {
+            "nombre":"Juan",
+            "apellido":"Ramirez",
+            "edad":"30",
+            "puesto":"Agente de compa venta",
+            "descripcion":"Me gusta jugar al futbol con amigos y tomar cerveza."
+        },
+        {
+            "nombre":"Maria",
+            "apellido":"Dominguez",
+            "edad":"36",
+            "puesto":"Gerente general",
+            "descripcion":"Persona vendedora, le vende leche a un tambero."
+        }
+    ]
+}

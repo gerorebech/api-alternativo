@@ -1,0 +1,31 @@
+[{
+    "id":["id1"],
+    "nombre":"Juan Carlos",
+    "apellido":"Cejas",
+    "edad":"40",
+    "telefono":"098999999",
+    "direccion":"18 de Julio 2014, apartamento 801",
+    "tarjeta":[
+        {
+            "oca":["Numero: 372 448 778", "Verificador:277"],
+            "visa":["Numero: 372 448 778", "Verificador:277"]  
+        }
+    ],
+    "preferencia":"Lugares no muy lejanos con piscina"
+},
+{
+    "id":["id2"],
+    "nombre":"Analia",
+    "apellido":"Cejas",
+    "edad":"50",
+    "telefono":"099888888",
+    "direccion":"14 de Julio 2021",
+    "tarjeta":[
+        {
+            "oca":["Numero: 444 448 778", "Verificador:487"],
+            "visa":["Numero: 555 448 778", "Verificador:992"]  
+        }
+    ],
+    "preferencia":"Lugares agrestes llenos de magia"
+
+}]
